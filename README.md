@@ -16,8 +16,11 @@
 >Basil and Sadhana like how you created your earthquake map with two different maps and the earthquake overlay. Now, Basil and Sadhana would like to see the earthquake data in relation to the tectonic plates’ location on the earth, and they would like to see all the earthquakes with a magnitude greater than 4.5 on the map, and they would like to see the data on a third map.
 
 **Language**: JavaScript
+
 **Library**:D3 and Leaflet
+
 **Server**: Local Host Python Server
+
 **API**: Mapbox
 
 ____________________________________________________
@@ -36,7 +39,7 @@ Tectonic Plate Map
 
 ### Figure 2
 
-Major Earthquake Data from the Last Seven Days map
+Major Earthquake Data from the Last Seven Days Map
 
 ## Deliverable 3: Add an Additional Map
 

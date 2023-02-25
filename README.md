@@ -24,7 +24,7 @@ ____________________________________________________
 
 ## Deliverable 1: Add Tectonic Plate Data
 
-![This is an image of the Tectonic Plate Data](/images/tec_plate.png)
+![This is an image of the Tectonic Plate Data](/images/tec_plates.png)
 
 ### Figure 1
 
